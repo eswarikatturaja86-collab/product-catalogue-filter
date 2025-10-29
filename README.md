@@ -40,6 +40,3 @@ Product Catalogue Filter is a simple, interactive, and responsive web applicatio
 
 Author
 Esakki Eswari[eswarikatturaja86@gmail.com]
-
-Aafifa Hani
-📩 aafifahani26@gmail.com
